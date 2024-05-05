@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         blue_gray: "#dadbf1",
         links_color: "#4C5FD5",
+        borderHover: ["hover", "focus"],
       },
     },
   },
