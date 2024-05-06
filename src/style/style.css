@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "America";
+    src: url("../fonts/GT-America-Standard-Medium-Trial.otf");
+    font-weight: 400;
+    font-style: normal;
+  }
+}
